@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 .DS_Store
+**/.DS_Store
 *.mx
 *.tmp
 *.bak
@@ -214,3 +215,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.DS_Store
