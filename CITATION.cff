@@ -13,7 +13,7 @@ commit: 2d3ed42
 doi: 10.5281/zenodo.17284729
 date-released: 2025-08-01
 license: MIT
-repository-code: https://github.com/njblottly/timebin-berry-phase
+repository-code: https://github.com/97RyanW/Geometric-Phase-Correction
 repository-artifact: https://doi.org/10.5281/zenodo.17284729
 keywords:
   - time-bin photonics
