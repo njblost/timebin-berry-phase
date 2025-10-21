@@ -13,8 +13,6 @@ __pycache__/
 *.bak
 *.log
 *.aux
-results/**
-!results/.keep
 
 # Distribution / packaging
 .Python
