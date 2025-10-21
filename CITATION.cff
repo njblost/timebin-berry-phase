@@ -1,20 +1,49 @@
 cff-version: 1.2.0
-title: "Time-bin Photonic Qudit: Geometric (Berry) Phase"
+message: "If you use this code, please cite the software release below; when the article is published, please cite that as well."
+title: "Geometric Phase (Pancharatnam–Berry) Calibration and Feed-Forward for Time-Bin Photonic Qudits"
 authors:
   - family-names: Wee
     given-names: Ryan
-  - family-names: Bruzzese
+    # orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Söhl-Brußese
     given-names: Nicholas
+    # orcid: https://orcid.org/0000-0000-0000-0000
 version: 1.0.0
+commit: 2d3ed42
 doi: 10.5281/zenodo.17284729
 date-released: 2025-08-01
+license: MIT
+repository-code: https://github.com/njblottly/timebin-berry-phase
+repository-artifact: https://doi.org/10.5281/zenodo.17284729
+keywords:
+  - time-bin photonics
+  - geometric phase
+  - Pancharatnam–Berry
+  - qudits
+  - calibration
+  - feed-forward
+abstract: >
+  Reference implementation of a calibration and feed-forward algorithm that isolates
+  and compensates geometric (Pancharatnam–Berry), dynamical, and technical phases in
+  time-bin photonic qudits using standard interferometric measurements.
 preferred-citation:
-  type: article
-  title: "The Berry Phase of a Time Bin Photonic Qudit"
+  type: software
+  title: "Geometric Phase (Pancharatnam–Berry) Calibration and Feed-Forward for Time-Bin Photonic Qudits"
   authors:
     - family-names: Wee
       given-names: Ryan
-    - family-names: Bruzzese
+    - family-names: Söhl-Brußese
       given-names: Nicholas
-  journal: Unknown/John Monash Science School (JMSS)
-  year: 2025
+  version: 1.0.0
+  doi: 10.5281/zenodo.17284729
+  date-released: 2025
+references:
+  - type: article
+    title: "Geometric Phase (Pancharatnam–Berry) Calibration and Feed-Forward for Time-Bin Photonic Qudits"
+    authors:
+      - family-names: Wee
+        given-names: Ryan
+      - family-names: Söhl-Brußese
+        given-names: Nicholas
+    year: 2025
+    journal: TBD
