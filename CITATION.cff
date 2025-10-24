@@ -4,10 +4,10 @@ title: "Geometric Phase (Pancharatnam–Berry) Calibration and Feed-Forward for 
 authors:
   - family-names: Wee
     given-names: Ryan
-    # orcid: https://orcid.org/0000-0000-0000-0000
+    # orcid:
   - family-names: Söhl-Brußese
     given-names: Nicholas
-    # orcid: https://orcid.org/0000-0000-0000-0000
+    # orcid: https://orcid.org/0009-0004-9993-5953
 version: 1.0.0
 commit: 2d3ed42
 doi: 10.5281/zenodo.17284729
